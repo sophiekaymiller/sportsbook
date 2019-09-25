@@ -17,7 +17,7 @@ library(magrittr)
 library(knitr)
 ```
 
-## The magic
+## Get Lines Function
 
 ```{r function}
 
