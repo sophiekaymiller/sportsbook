@@ -1,4 +1,4 @@
-title: "Sports Betting Lines"
+# Sports Betting Lines
 
 
 ```{r setup, include=FALSE}
